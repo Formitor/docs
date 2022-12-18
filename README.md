@@ -1,4 +1,4 @@
-![Formitor](images/logo.jpg)
+![Formitor](./images/logo.png)
 
 # Documentation Repo for Formitor
 
