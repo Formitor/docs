@@ -1,3 +1,5 @@
+![Formitor](images/logo.jpg)
+
 # Documentation Repo for Formitor
 
 In this repo you can find documentation for Formitor and all it's features.
