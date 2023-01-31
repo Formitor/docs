@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Emded
 
-Let's discover **Docusaurus in less than 5 minutes**.
+You have multiple ways of showcasing your Formitor's but surely one of the best if embedding.
 
 ## Getting Started
 
@@ -14,17 +14,24 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
+- [Node.js](https://nodejs.org/en/download/) version 14 or above:
+
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+- Yarn or npm
 
-Generate a new Docusaurus site using the **classic template**.
+## Installation
 
-The classic template will automatically be added to your project after you run the command:
+Install using your favourite package manager:
 
 ```bash
-npm init docusaurus@latest my-website classic
+yarn add @formitor/embed
+```
+
+or
+
+```bash
+npm install --save @formitor/embed
 ```
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
